@@ -1,19 +1,20 @@
- /* Created by: Angelo Pintilie
+/* Created by: Angelo
 * Created on: Feb 20222
 * This CSS file defines the style for index.html
 * ICS20-Unit1-04-HTML-CSS
 */
 
 body {
-  background-color: BurlyWood;
+  background-color: lightsteelblue;
 }
 
 h1 {
-  background-color: rgb(254, 206, 17);
-  color: hsl(48°, 99, 53);
+  background-color: rgb(175, 238, 238);
+  color: hsl(0.50, 0.65, 0.81);
   padding: 40px;
   text-align: center;
 }
+
 p {
-  background-color: ##a1c3f7;
+  background-color: #E6E6FA;
 }
